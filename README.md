@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.pinimg.com/564x/5b/c3/7c/5bc37cc103afa0b5e0abdbaa7c17ae88.jpg" />
+<img align="center" style="margin-bottom:50px; object-fit: contain" width=50% src="https://i.pinimg.com/564x/5b/c3/7c/5bc37cc103afa0b5e0abdbaa7c17ae88.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 
@@ -7,7 +7,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-panyfmc.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<!-- <img width=40% align="center" src="https://github-readme-stats-git-main-panyfmc.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" /> -->
  </div>
  
  &nbsp;
