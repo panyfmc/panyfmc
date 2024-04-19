@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ Família Craft. <br><br> I know absolutely nothing.</p>&nbsp;
+<p align="center">I ❤️ família craft. <br><br> I see you in the clouds.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
