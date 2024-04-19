@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:50px; object-fit: contain" width=50% src="https://i.pinimg.com/564x/5b/c3/7c/5bc37cc103afa0b5e0abdbaa7c17ae88.jpg" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=50% src="https://i.pinimg.com/564x/5b/c3/7c/5bc37cc103afa0b5e0abdbaa7c17ae88.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 
@@ -19,6 +19,8 @@
 ![C](https://img.shields.io/badge/-14354C?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
+
+
 <!--
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
@@ -32,6 +34,7 @@
 
 #### Studying in this moment:
 
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -41,6 +44,7 @@
 
 
 #### Workstation Tools:
+
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
