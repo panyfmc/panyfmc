@@ -42,7 +42,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![MachineLearning](https://img.shields.io/badge/kaggle-14354kaggle?style=for-the-badge&logo=kaggle&logoColor=white)&nbsp;
-![Linux](https://camo.githubusercontent.com/ca7fbd0b985863fd2a324d8fc14c8844ccbc26b98a03ec0896659cbd26a5e31e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-151514?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 
 
 
