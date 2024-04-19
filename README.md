@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.pinimg.com/564x/5b/c3/7c/5bc37cc103afa0b5e0abdbaa7c17ae88.jpg" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=40% src="https://i.pinimg.com/564x/5b/c3/7c/5bc37cc103afa0b5e0abdbaa7c17ae88.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 
@@ -44,7 +44,9 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Discord](https://img.shields.io/badge/discord-14354discord?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/trello-14354trello?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
