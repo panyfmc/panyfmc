@@ -19,7 +19,7 @@
 
 #### Stacks:
 ![C](https://img.shields.io/badge/-14354C?style=for-the-badge&logo=C&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-0000cd?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 
 
