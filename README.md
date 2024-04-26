@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ família craft. <br><br> I see you in the Clouds.</p>&nbsp;
+<p align="center"> ❤️ <br><br> I see you in the Clouds.</p>&nbsp;
 
 
 
