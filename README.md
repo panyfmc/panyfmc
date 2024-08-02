@@ -17,8 +17,6 @@
 
 
 
-#### Stacks:
-
 ![C](https://img.shields.io/badge/-14354C?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
@@ -26,8 +24,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
-#### Studying in this moment:
 
 
 ![Linux](https://img.shields.io/badge/Linux-151514?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
