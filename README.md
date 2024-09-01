@@ -1,11 +1,6 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=40% src="https://i.pinimg.com/564x/1d/e6/bf/1de6bf43fd600f5a5ca6799839f895e9.jpg" />
-&nbsp;&nbsp;&nbsp;
-
+&nbsp;
 
 <p align="center"> ❤️ <br><br> I see you in the Clouds.</p>&nbsp;
-
-
 
  <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
@@ -21,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 -->
 
-
+<img align="center" style="margin-bottom:60px; object-fit: contain" width=40% src="https://i.pinimg.com/564x/1d/e6/bf/1de6bf43fd600f5a5ca6799839f895e9.jpg" />
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <!--
@@ -32,9 +27,6 @@
 ![CSS](https://img.shields.io/badge/css3-ff087f?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![MachineLearning](https://img.shields.io/badge/kaggle-14354kaggle?style=for-the-badge&logo=kaggle&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-ff0400?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-
-
 
 
 #### Workstation Tools:
@@ -59,8 +51,5 @@
 
 
 &nbsp;&nbsp;
- 
-
-  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
