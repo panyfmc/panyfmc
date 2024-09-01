@@ -11,12 +11,11 @@
  &nbsp;
 
 <!--
-
+<img align="center" style="margin-bottom:60px; object-fit: contain" width=40% src="https://i.pinimg.com/564x/1d/e6/bf/1de6bf43fd600f5a5ca6799839f895e9.jpg" />
 ![C](https://img.shields.io/badge/-14354C?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 -->
 
-<img align="center" style="margin-bottom:60px; object-fit: contain" width=40% src="https://i.pinimg.com/564x/1d/e6/bf/1de6bf43fd600f5a5ca6799839f895e9.jpg" />
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <!--
