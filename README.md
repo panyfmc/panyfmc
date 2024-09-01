@@ -15,16 +15,16 @@
  &nbsp;
  &nbsp;
 
-
+<!--
 
 ![C](https://img.shields.io/badge/-14354C?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-
+-->
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
+<!--
 
 ![Linux](https://img.shields.io/badge/Linux-151514?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -37,15 +37,12 @@
 
 
 
-
-
 #### Workstation Tools:
 
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-1414b8?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -56,8 +53,12 @@
 <a href="https://www.instagram.com/paula_argolo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:paula_argolo@academico.ufs.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!-- <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> -->
-</div>&nbsp;&nbsp;
+<!-- <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>
+-->
+
+
+&nbsp;&nbsp;
  
 
   
