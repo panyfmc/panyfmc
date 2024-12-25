@@ -11,11 +11,9 @@
 <br>
 <br>
 
-<div style="display: inline_block" align="center"><br>
-  <p align="center">
-    <img src="me.jpeg" alt="Paula Argôlo" width="200"">
-    <img src="text-sem-fundo.png" alt="Paula" width="300">
-  </p>
+<div style="display: inline_block"><br>
+  <img src="me.jpeg" alt="Paula Argôlo" width="200"">
+  <img src="text-sem-fundo.png" alt="Paula" width="300">
 </div>
 
 <br>
@@ -61,6 +59,12 @@
 
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Gui-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
+  <img align="center" alt="Gui-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg"/>
+## 
+</div>
 
 
 ### Main skills:
