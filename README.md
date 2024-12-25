@@ -11,12 +11,10 @@
 <br>
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <img src="me.jpeg" alt="Paula Argôlo" width="200">
   <img src="text-sem-fundo.png" alt="Paula" width="280">
-</div>
-
-
+</p>
 
 ##
 
