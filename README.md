@@ -13,16 +13,15 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img src="me.jpeg" alt="Paula Argôlo" width="180"">
   <img src="text-sem-fundo.png" alt="Paula" width="280">
 </div>
 
 ##
+
 <br>
 <br>
-
-
 
 <div>
   <a href="https://github.com/panyfmc">
