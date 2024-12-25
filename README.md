@@ -11,11 +11,14 @@
 <br>
 <br>
 
+##
+
 <div style="display: inline_block"><br>
-  <img src="me.jpeg" alt="Paula Argôlo" width="200"">
-  <img src="text-sem-fundo.png" alt="Paula" width="300">
+  <img src="me.jpeg" alt="Paula Argôlo" width="180"">
+  <img src="text-sem-fundo.png" alt="Paula" width="280">
 </div>
 
+##
 <br>
 <br>
 
@@ -43,11 +46,6 @@
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
-<!--
-<a  href="https://www.linkedin.com/in/carolbarbosa/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
--->
 </div>
 
 ## 
@@ -60,9 +58,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Gui-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
-  <img align="center" alt="Gui-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg"/>
+  <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+ <!-- <img align="center" alt="Gui-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
+  <img align="center" alt="Gui-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg"/> -->
 ## 
 </div>
 
@@ -127,6 +125,9 @@
 <br> 
 <br> 
 
+##
+
+<br>
 <div align="center">
 <h4>give me a coffee</h4>
 </div>
