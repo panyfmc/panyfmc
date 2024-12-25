@@ -11,13 +11,12 @@
 <br>
 <br>
 
-##
-
 <div style="display: inline_block">
   <img src="me.jpeg" alt="Paula Argôlo" width="180"">
   <img src="text-sem-fundo.png" alt="Paula" width="280">
 </div>
-&nbsp;
+
+
 ##
 
 <br>
