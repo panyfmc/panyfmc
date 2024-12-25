@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<div style="display: inline_block" align itenc="center">
+<div style="display: inline_block" align itens="center">
   <img src="me.jpeg" alt="Paula Argôlo" width="200"">
   <img src="text-sem-fundo.png" alt="Paula" width="280">
 </div>
