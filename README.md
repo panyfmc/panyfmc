@@ -11,11 +11,12 @@
 <br>
 <br>
 
-
-<p align="center">
-  <img src="me.jpeg" alt="Paula Argôlo" width="200"">
-  <img src="text-sem-fundo.png" alt="Paula" width="300">
-</p>
+<div style="display: inline_block" align="center"><br>
+  <p align="center">
+    <img src="me.jpeg" alt="Paula Argôlo" width="200"">
+    <img src="text-sem-fundo.png" alt="Paula" width="300">
+  </p>
+</div>
 
 <br>
 <br>
@@ -39,11 +40,6 @@
 <a href="https://instagram.com/paula_argolo" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
-<!--
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
-</a>
--->
 
 <a href="mailto:argolotrabalhos@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
@@ -64,6 +60,7 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
 
 </div>
+
 
 
 ### Main skills:
