@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="yourname2.gif" alt="Gif Your Name" style="width: 600px;">
+  <img src="yourname2.gif" alt="Gif Your Name" style="width: 570px;">
 </p>
 
 &nbsp;
 <br> 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=fbfafc&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Pany;I'm+19+years+old;I'm+a+Beginner+Software+Developer;I'm+from+Brazil;Welcome!)](https://git.io/typing-svg)
+### Hello, my name is Paula. 
+### I'm 19 years old and I like developing things at a low level. XD
 
 <br>
 <br>
@@ -24,10 +24,8 @@
 <div>
   <a href="https://github.com/panyfmc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panyfmc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panyfmc&layout=compact&langs_count=8&theme=github_dark"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=panyfmc&theme=react-dark&hide_border=true" />
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panyfmc&layout=compact&langs_count=8&theme=github_dark"/> -->
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=panyfmc&theme=github_dark"/> -->
-    
 </div>
 
 &nbsp;
