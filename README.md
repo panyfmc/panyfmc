@@ -42,21 +42,17 @@
  I’m currently working on [@capgemini](https://www.linkedin.com/company/capgemini/) with Solution Architecture and Release Management. These are some of the technologies and tools that I work with:
 
 ## ⚡ Technologies
-  - Programming languages: ![C](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  - Programming languages: <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-  - Operational systems: ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
+
+  - Operational systems: <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+
+
 
 ## 
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
- <!-- <img align="center" alt="Gui-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
-  <img align="center" alt="Gui-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg"/> -->
-</div>
-
-<br>
-<br> 
 <br>
 <br>
 <br>
