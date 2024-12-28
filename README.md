@@ -2,9 +2,9 @@
   <img src="yourname2.gif" alt="Gif Your Name" style="width: 570px;">
 </p>
 
-&nbsp;
 <br> 
 <br>
+
 #### Hello, my name is pany. 
 #### I'm 19 years old and I like programming, especially at a low level. XD
 
@@ -16,6 +16,9 @@
   <img src="text-sem-fundo.png" alt="Paula" width="280">
 </p>
 
+<br>
+<br>
+
 ##
 
 <br>
@@ -23,24 +26,27 @@
 
 <div>
   <a href="https://github.com/panyfmc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panyfmc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panyfmc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panyfmc&layout=compact&langs_count=8&theme=github_dark"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=panyfmc&theme=react-dark&hide_border=true" />
 </div>
 
-&nbsp;
+
 <br> 
 <br>
 
 
 <div> 
   <a href="https://www.instagram.com/paula_argolo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  ✉ argolotrabalhos@gmail.com
   
-✉ argolotrabalhos@gmail.com
+<br> 
   
-##
+  ##
 
-⚡ These are some of the tools that I work with:
+<br> 
+
+<h2>⚡ These are some of the tools that I work with: </h2>
 
   - Programming languages: <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
@@ -49,7 +55,7 @@
 
   - Operational systems: <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 
-## 
+  ## 
 </div>
 
 <br>
@@ -59,7 +65,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="left" alt="Computador">
 
-&nbsp;
+<br>
 <br> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17109e&height=120&section=footer"/>
