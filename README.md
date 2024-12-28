@@ -5,8 +5,8 @@
 &nbsp;
 <br> 
 <br>
-### Hello, my name is Paula. 
-### I'm 19 years old and I like developing things at a low level. XD
+#### Hello, my name is pany. 
+#### I'm 19 years old and I like programming, especially at a low level. XD
 
 <br>
 <br>
@@ -42,26 +42,9 @@
  I’m currently working on [@capgemini](https://www.linkedin.com/company/capgemini/) with Solution Architecture and Release Management. These are some of the technologies and tools that I work with:
 
 ## ⚡ Technologies
-✅ Software Skills:
-  - Programming languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/-bash-3776AB?style=flat-square&logo=bash&logoColor=white)
+  - Programming languages: ![C](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=c&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
   - Operational systems: ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
-  - Monitoring: ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=black) ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)![Zabbix](https://img.shields.io/badge/-Zabbix-22ADF6?style=flat-square&logo=zabbix&logoColor=white)
-  - Container: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&logoColor=blac)
-  - Git: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=black)
-  - Database: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-<div align="center"> 
-<a href="https://instagram.com/paula_argolo" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
-</a>
-
-<a href="mailto:argolotrabalhos@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
-
-</div>
 
 ## 
 </div>
@@ -141,16 +124,12 @@
 ##
 
 <br>
-<div align="center">
-<h4>give me a coffee</h4>
-</div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+##### ☕ Give me a coffee! 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="left" alt="Computador">
 
 &nbsp;
 <br> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17109e&height=120&section=footer"/>
-
-
-
