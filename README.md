@@ -6,14 +6,7 @@
 <br>
 
 #### Hello, my name is pany. 
-#### I'm 19 years old and I like programming, especially at a low level. XD
-
-<br>
-
-<p align="center">
-  <img src="me.jpeg" alt="Paula Argôlo" width="200">
-  <img src="text-sem-fundo.png" alt="Paula" width="280">
-</p>
+#### I'm 20 years old and I like programming, especially at a low level. XD
 
 <br>
 
