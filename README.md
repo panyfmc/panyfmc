@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="yourname2.gif" alt="Gif Your Name" style="width: 570px;">
+  <img src="thanos.gif" alt="Gif Your Name" style="width: 570px;">
 </p>
 
 <br> 
