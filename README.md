@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mzsilvaw@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://1drv.ms/b/c/72caa4757ac35768/EU8upONw5gdLkR_bLpsynjoBZ1gHfIjqoePWBDBVjfPCqg?e=ifTwDi)
+- 📄 Know about my experiences [My resume](https://1drv.ms/b/c/72caa4757ac35768/EVVlsBOZABlAqQmTFhyz_3wBIRWKV05pNmBfENttu0kUuQ?e=a7bH5u)
 
 - ⚡ Fun fact **I like Pokémon and retro games.**
 
