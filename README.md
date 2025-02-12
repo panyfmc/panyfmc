@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React, Node.js and Java.**
 
-- 👨‍💻 All of my projects are available at [https://portifolio-topaz-theta.vercel.app/](https://portifolio-topaz-theta.vercel.app/)
+- 👨‍💻 All of my projects are available at [Vercel - My Projects](https://portifolio-topaz-theta.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, React, Node.js and Java.**
 
 - 📫 How to reach me **mzsilvaw@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/72caa4757ac35768/EU8upONw5gdLkR_bLpsynjoBZ1gHfIjqoePWBDBVjfPCqg?e=ifTwDi](https://1drv.ms/b/c/72caa4757ac35768/EU8upONw5gdLkR_bLpsynjoBZ1gHfIjqoePWBDBVjfPCqg?e=ifTwDi)
+- 📄 Know about my experiences [My resume](https://1drv.ms/b/c/72caa4757ac35768/EU8upONw5gdLkR_bLpsynjoBZ1gHfIjqoePWBDBVjfPCqg?e=ifTwDi)
 
 - ⚡ Fun fact **I like Pokémon and retro games.**
 
