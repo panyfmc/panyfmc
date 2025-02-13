@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Vercel - My Projects](https://portifolio-topaz-theta.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, React, Node.js and Java.**
+- 💬 Ask me about **HTML, CSS, JS, React and Node.js.**
 
 - 📫 How to reach me **mzsilvaw@gmail.com**
 
