@@ -6,7 +6,8 @@
 <br>
 
 #### Oi, eu sou a Paula! 🤓💻. 
-#### Estudante de tecnologia, 20 anos, gosto de doces, ler e café (não necessariamente nessa ordem ☕🍫). :D
+#### Estudante de tecnologia, 20 anos, gosto de doces, ler e café (não necessariamente nessa ordem ☕🍫)  
+#### :D
 
 <br>
 
