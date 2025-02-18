@@ -5,8 +5,8 @@
 <br> 
 <br>
 
-#### Hello, my name is pany. 
-#### I'm 20 years old and I like programming. XD
+#### Oi, eu sou a Paula! 🤓💻. 
+#### Estudante de tecnologia, 20 anos, gosto de doces, ler e café (não necessariamente nessa ordem ☕🍫). :D
 
 <br>
 
