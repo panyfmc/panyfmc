@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Silva</h1>
-<h3 align="center">the Ash Ketchum of coding</h3>
+<h3 align="center">The Ash Ketchum of coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelzackk&label=Profile%20views&color=0e75b6&style=flat" alt="miguelzackk" /> </p>
 
