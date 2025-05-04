@@ -6,7 +6,7 @@
 <br>
 
 #### 🤓💻. 
-#### estudante de tecnologia, 20 anos, gosto de doces, ler e café (não necessariamente nessa ordem ☕🍫).
+#### estudante de tecnologia, 20 anos, tenho todas as coleções de livros do AuthenticGames,
 #### :D
 
 <br>
