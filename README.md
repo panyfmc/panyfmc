@@ -6,8 +6,7 @@
 <br>
 
 #### 🤓💻. 
-#### estudante de tecnologia, 20 anos, tenho todas as coleções de livros do AuthenticGames,
-#### :D
+#### Tenho todos os livros do AuthenticGames :D
 
 <br>
 
