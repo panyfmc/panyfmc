@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-    <img src="/gifs/a2aunb.gif" width="360" alt="GIF animado" />
+  <a href="https://imgflip.com/gif/a2aunb" target="_blank">
+    <img src="https://i.imgflip.com/a2aunb.gif" width="360" alt="GIF animado" />
   </a>
 </div>
 
