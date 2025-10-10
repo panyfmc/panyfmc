@@ -6,7 +6,6 @@
 <br>
 
 #### 🤓💻. 
-#### Tenho todos os livros do AuthenticGames :D
 
 <br>
 
