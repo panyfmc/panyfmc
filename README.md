@@ -1,11 +1,5 @@
 <h1 align="center">Hey 👋<br>Welcome to the new world of coding!</h1>
 
-###
-
-<div align="center">
-    <img src="/gifs/LZbPGg2.gif" width="360" alt="GIF animado" />
-  </a>
-</div>
 
 ###
 
@@ -47,14 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/miguel-silva-8074b7323/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
