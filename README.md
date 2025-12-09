@@ -1,5 +1,6 @@
+#### 🤓💻
 <p align="center">
-  #### 🤓💻
+
   <img src="thanos.gif" alt="Gif Your Name" style="width: 270px;">
 </p>
 
