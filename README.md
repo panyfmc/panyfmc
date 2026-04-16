@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👋<br>I'm Paula Argôlo!</h1> <br> <h1 align="center">I'm Developer</h1>
+<h2 align="center">Hello 𓃠 <br>I'm Paula!</h2> <br> <h2 align="center">I'm Developer</h2>
 
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=miguelzack.miguelzack&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=panyfmc.panyfmc&"  />
 </div>
 
 ###
