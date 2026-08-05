@@ -1,4 +1,4 @@
-<h2 align="center">Hello ツ <br>I am Pany and <br>...</h2>
+<h2 align="center">Hello ツ <br>I am paula and <br>...</h2>
 
 
 ###
